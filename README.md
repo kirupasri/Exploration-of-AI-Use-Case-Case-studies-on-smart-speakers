@@ -21,13 +21,23 @@ The user gives a voice command to the smart speaker. The microphone captures the
 User Command → Speech Recognition → "Set an alarm for 7 AM tomorrow" → NLP/NLU → Intent: Set Alarm → Time: 7:00 AM, Date: Tomorrow → AI Processing → Alarm Set → TTS → "Alarm set for 7 AM tomorrow."
 
 ## CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS
+
 1.Voice Interaction: Allows users to interact with the device using natural voice commands.
+
 2.Speech Recognition: Converts spoken language into text for processing.
+
 3.Natural Language Understanding: Understands the meaning and intent of user commands.
+
 4.Personalization: Provides responses and services based on user preferences and usage patterns.
+
 5.Context Awareness: Uses conversational context to understand follow-up commands.
+
 6.Smart Home Control: Controls connected devices such as lights, fans, TVs, and air conditioners.
-7.Information Retrieval: Provides information such as weather, news, facts, and general knowledge. 8.Task Automation: Performs tasks such as setting alarms, timers, reminders, and schedules.
+
+7.Information Retrieval: Provides information such as weather, news, facts, and general knowledge.
+
+8.Task Automation: Performs tasks such as setting alarms, timers, reminders, and schedules.
+
 9.Multilingual Support: Can understand and respond in multiple languages. Continuous Learning: Uses machine learning and user feedback to improve system performance
 
 # RESULT
